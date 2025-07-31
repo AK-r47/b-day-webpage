@@ -34,10 +34,13 @@ This project is a creative and interactive **3D animated book** made using HTML 
 2. Add `cover.jpg` and `back.jpg` images in the root directory.
 3. Open `index.html` in your browser.
 
+4. <img width="760" height="808" alt="image" src="https://github.com/user-attachments/assets/1f3c26a2-d604-4d6b-bc1f-8a7ebee64975" />
+
 ```bash
 git clone https://github.com/sumitprakash61/3d-book-animation.git
 cd 3d-book-animation
 start index.html   # Windows
 open index.html    # macOS
 xdg-open index.html # Linux
-<img width="760" height="808" alt="image" src="https://github.com/user-attachments/assets/1f3c26a2-d604-4d6b-bc1f-8a7ebee64975" />
+
+

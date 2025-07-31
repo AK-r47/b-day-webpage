@@ -34,7 +34,7 @@ This project is a creative and interactive **3D animated book** made using HTML 
 2. Add `cover.jpg` and `back.jpg` images in the root directory.
 3. Open `index.html` in your browser.
 
-4. <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/c495fa2b-d1d1-4407-9bb3-13f4dd570c23" />
+4. <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c495fa2b-d1d1-4407-9bb3-13f4dd570c23" />
 
 
 ```bash

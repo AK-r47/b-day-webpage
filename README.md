@@ -36,12 +36,4 @@ This project is a creative and interactive **3D animated book** made using HTML 
 
 4. <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c495fa2b-d1d1-4407-9bb3-13f4dd570c23" />
 
-
-```bash
-git clone https://github.com/sumitprakash61/3d-book-animation.git
-cd 3d-book-animation
-start index.html   # Windows
-open index.html    # macOS
-xdg-open index.html # Linux
-
-
+##
